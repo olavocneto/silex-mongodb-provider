@@ -20,7 +20,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.4",
-        "silex/silex": "~1.3",
+        "silex/silex": "~2.0@dev",
         "mongodb/mongodb": "^1.0.0@beta"
     },
     "autoload": {
